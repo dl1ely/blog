@@ -12,6 +12,6 @@ Luckily, Linux supports this keyboard layout out of the box. But this poses prob
 
 The Yubikey tries to circumvent the problem of variable keyboard layouts on the host PC by using only keys that are the same on qwerty, qwertz and Dvorak layouts, but this approach fails on more esoteric layouts. But using the ykpersonalize tool, one can set a custom mapping for the 45 keys used by the Yubikey NEO or newer, so that after mapping through the host PC keyboard layout, the expected characters end up in the OTP password.
 
-The command to make a Yubikey emit correct keypresses for the [neolayout2](https://neo-layout.org/) keyboard layout is
+The command to make a Yubikey emit correct keypresses for the [neolayout2](https://neo-layout.org/) keyboard layout is 
 
 
