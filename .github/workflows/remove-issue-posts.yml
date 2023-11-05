@@ -28,7 +28,7 @@ jobs:
           echo "Deleting $file 🧹"
           rm -rf $(find . | grep $file)
           cd ../..
-          hugo -D -b https://aryamanz29.github.io/posts/ -t github-style
+          hugo -D -b https://dl1ely.github.io/blog/ -t github-style
 
       - name: Publish content 🚀
         uses: stefanzweifel/git-auto-commit-action@v4

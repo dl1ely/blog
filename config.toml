@@ -1,28 +1,28 @@
-baseURL = "https://aryamanz29.github.io/posts"
+baseURL = "https://dl1ely.github.io/blog"
 languageCode = "en-us"
-title = "Aryaman's blog"
+title = "Dr. Stefan Pfeiffer"
 theme = "github-style"
 #googleAnalytics = "UA-123456-789"
 #pygmentsCodeFences = true
 #pygmentsUseClasses = true
 
 [params]
-  author = "Aryaman"
-  description = "Blogs by Aryamanz29 👨‍💻, Built with Github Actions 🚀"
-  github = "Aryamanz29"
+  author = "Dr. Stefan Pfeiffer"
+  description = "The blog posts i wished i have found while googling"
+  github = "dl1ely"
   #facebook = ""
-  twitter = "AryamanZ29"
-  linkedin = "aryamanz29"
-  instagram = "aryaman_z29"
+  #twitter = "AryamanZ29"
+  #linkedin = "aryamanz29"
+  #instagram = "aryaman_z29"
   #tumblr = ""
-  email = "aryamanz29@gmail.com"
-  url = "https://aryamanz29.github.io/"
+  email = "mail@stefan-pfeiffer.de"
+  url = "https://www.stefan-pfeiffer.de/"
   #keywords = "blog, google analytics"
   #rss = true
   lastmod = true
   userStatusEmoji = "🌠"
   favicon = "/posts/images/github.png"
-  location = "India"
+  location = "Germany"
   
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
