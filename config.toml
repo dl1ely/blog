@@ -20,7 +20,7 @@ theme = "github-style"
   #keywords = "blog, google analytics"
   #rss = true
   lastmod = true
-  userStatusEmoji = "🌠"
+  userStatusEmoji = "🇪🇺"
   favicon = "/posts/images/github.png"
   location = "Germany"
   
