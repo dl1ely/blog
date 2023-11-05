@@ -43,18 +43,16 @@ function switchYear(year) {
   for (const item of contributions) {
     if (item.date >= startDate && item.date <= endDate) {
       posts.push(item);
-      const time = item.date.getFullYear().toString() + "-" + item.date.getMonth().toString();
-      if (!ms.includes(time)) {
-        ms.push(time);
+      if (!ms.includes(item.date.getMonth())) {
+        ms.push(item.date.getMonth());
       }
     }
   }
   posts.sort((a, b) => { return b - a });
   document.querySelector('#posts-activity').innerHTML = '';
-  for (const time of ms) {
+  for (const month of ms) {
     const node = document.createElement('div');
-    const array = time.split("-");
-    node.innerHTML = monthly(array[0], Number(array[1]), posts);
+    node.innerHTML = monthly(year, month, posts);
     document.querySelector('#posts-activity').appendChild(node);
   }
 
