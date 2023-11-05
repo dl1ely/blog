@@ -8,7 +8,7 @@ theme = "github-style"
 
 [params]
   author = "Dr. Stefan Pfeiffer"
-  description = "The blog posts i wished i have found while googling"
+  description = "The blog posts i wish had existed when i was googling them"
   github = "dl1ely"
   #facebook = ""
   #twitter = "AryamanZ29"
@@ -17,8 +17,8 @@ theme = "github-style"
   #tumblr = ""
   email = "mail@stefan-pfeiffer.de"
   url = "https://www.stefan-pfeiffer.de/"
-  #keywords = "blog, google analytics"
-  #rss = true
+  keywords = "blog, dl1ely, Stefan Pfeiffer"
+  rss = true
   lastmod = true
   userStatusEmoji = "🇪🇺"
   favicon = "/posts/images/github.png"
