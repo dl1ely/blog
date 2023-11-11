@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Dr. Stefan Pfeiffer</title><link>https://dl1ely.github.io/blog/post/</link><description>Recent content in Posts on Dr. Stefan Pfeiffer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 15:22:37 +0000</lastBuildDate><atom:link href="https://dl1ely.github.io/blog/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Neolayout2 Yubikey Keymappings</title><link>https://dl1ely.github.io/blog/post/1-neolayout2yubikeykeymappings/</link><pubDate>Sun, 05 Nov 2023 15:22:37 +0000</pubDate><guid>https://dl1ely.github.io/blog/post/1-neolayout2yubikeykeymappings/</guid><description>Neolayout2 Yubikey Keymappings &lt;!-- raw HTML omitted --></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dr. Stefan Pfeiffer</title>
+    <link>https://dl1ely.github.io/blog/post/</link>
+    <description>Recent content in Posts on Dr. Stefan Pfeiffer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Nov 2023 15:22:37 +0000</lastBuildDate><atom:link href="https://dl1ely.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neolayout2 Yubikey Keymappings</title>
+      <link>https://dl1ely.github.io/blog/post/1-neolayout2yubikeykeymappings/</link>
+      <pubDate>Sun, 05 Nov 2023 15:22:37 +0000</pubDate>
+      
+      <guid>https://dl1ely.github.io/blog/post/1-neolayout2yubikeykeymappings/</guid>
+      <description>Neolayout2 Yubikey Keymappings &lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
